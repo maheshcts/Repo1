@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 162E-3D07
+
+ Directory of C:\Users\602628\Desktop\MyProject
+
+03/27/2019  03:46 PM    <DIR>          .
+03/27/2019  03:46 PM    <DIR>          ..
+03/27/2019  03:46 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  172,950,794,240 bytes free
